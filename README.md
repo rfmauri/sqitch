@@ -1,4 +1,16 @@
 App/Sqitch version v1.6.2-dev
+
+**Fork Notice**
+This repository is a fork of `sqitchers/sqitch`.
+
+The primary goal of this fork is to add support for Google BigQuery as a
+Sqitch database engine while remaining as compatible as possible with the
+upstream project.
+
+Unless otherwise noted, the documentation below describes Sqitch in general.
+BigQuery-specific features and differences are documented in dedicated
+sections.
+
 =========================
 
 | Release           | Coverage          | Database                                                |||

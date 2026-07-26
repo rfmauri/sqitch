@@ -1,4 +1,12 @@
 App/Sqitch version v1.6.2-dev
+=========================
+
+| Release           | Coverage          | Database                                                |||
+|-------------------|-------------------|-------------------|------------------|--------------------|
+| [![CPAN]][📚]      | [![OSes]][💿]      | [![Postgres]][🐘]  | [![SQLite]][💡]   | [![MySQL]][🐬]      |
+| [![Docker]][🐳]    | [![Perl]][🧅]      | [![Yugabyte]][💫]  | [![Firebird]][🔥] | [![MariaDB]][🦭]    |
+| [![Homebrew]][🍺]  | [![Coverage]][📈]  | [![Cockroach]][🪳] | [![Exasol]][☀️]   | [![ClickHouse]][🏠] |
+| [![Debian]][🍥]    |                   | [![Snowflake]][❄️] | [![Oracle]][🔮]   | [![Vertica]][🔺]    |
 
 **Fork Notice**
 This repository is a fork of `sqitchers/sqitch`.
@@ -10,16 +18,6 @@ upstream project.
 Unless otherwise noted, the documentation below describes Sqitch in general.
 BigQuery-specific features and differences are documented in dedicated
 sections.
-
-=========================
-
-| Release           | Coverage          | Database                                                |||
-|-------------------|-------------------|-------------------|------------------|--------------------|
-| [![CPAN]][📚]      | [![OSes]][💿]      | [![Postgres]][🐘]  | [![SQLite]][💡]   | [![MySQL]][🐬]      |
-| [![Docker]][🐳]    | [![Perl]][🧅]      | [![Yugabyte]][💫]  | [![Firebird]][🔥] | [![MariaDB]][🦭]    |
-| [![Homebrew]][🍺]  | [![Coverage]][📈]  | [![Cockroach]][🪳] | [![Exasol]][☀️]   | [![ClickHouse]][🏠] |
-| [![Debian]][🍥]    |                   | [![Snowflake]][❄️] | [![Oracle]][🔮]   | [![Vertica]][🔺]    |
-
 
 [Sqitch] is a database change management application. It currently supports:
 
